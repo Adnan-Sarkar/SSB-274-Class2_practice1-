@@ -1,0 +1,37 @@
+.header {
+  background: rgb(28, 93, 16);
+  height: 100px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.main_content {
+  background: rgb(22, 11, 119);
+  height: 800px;
+  overflow: hidden;
+}
+.article_left {
+  background: rgb(149, 151, 14);
+  width: 50%;
+  height: 800px;
+  float: left;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.article_right {
+  background: rgb(12, 44, 10);
+  width: 50%;
+  height: 800px;
+  float: right;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.footer {
+  background: rgb(100, 16, 13);
+  height: 100px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
